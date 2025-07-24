@@ -113,7 +113,7 @@
                     "fa_icon": "far fa-file-code",
                     "description": "Path to FASTA transcriptome file."
                 },
-                "additional_fasta": {
+        ##       "additional_fasta": {
                     "type": "string",
                     "format": "file-path",
                     "exists": true,
